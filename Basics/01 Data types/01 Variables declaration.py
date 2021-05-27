@@ -1,4 +1,4 @@
-# drobnostki dla początkujących
+# elementary variables"
 
 number = 100
 
@@ -10,7 +10,7 @@ print (result)
 
 """
 
-The above was used to allow for
+The above signs were used to allow for
 commentary
 which is longer than
 one line
