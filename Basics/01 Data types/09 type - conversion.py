@@ -23,4 +23,5 @@ print ("She said tha she will wait for " + str(30) + " minutes" )
 print ("This is my favourit number - " + str(Integer)) # This is my favourit number - 23
 
 print ( "I like these numbers" + str((24,43,102)) ) # I like these numbers(24, 43, 102)
-print ("I like these numbers" , 23.5, (34,24,32,52)) # I like these numbers 23.5 (34, 24, 32, 52)
+print ("I like these numbers" , 23.5, (34,24,32,52)) 
+# I like these numbers 23.5 (34, 24, 32, 52), with comma you don't have to convert
