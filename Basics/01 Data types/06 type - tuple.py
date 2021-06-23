@@ -23,7 +23,7 @@ print(book[::2])
 
 cars = (("KIA", "Hyundai", "Mazda") , ("bmw", "mercedes", "Audi"))
 print(cars)
-print(cars[0][0]) # second tuple, first value - KIA
+print(cars[0][0]) # first tuple, first value - KIA
 
 if "Mazda" in cars[0]:
     print ("Yupi!") 

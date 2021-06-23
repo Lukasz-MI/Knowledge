@@ -28,7 +28,7 @@ Kasia = 22
 if Kasia < Ania or "Jake" == "Yake":
     print ("a part is true") # True
 
-if Ania == Kasia or 4 != 4 or 2>1 : # last value is true only
+if Ania == Kasia or 4 != 4 or 2>1 : # last value is true only - True
     print ("1 in third") 
 
 print (not False) # True
