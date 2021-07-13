@@ -45,3 +45,4 @@ print("Employee name:" , getattr(employee1 , "name")) # You should indicate the 
 setattr(employee1, "name" , "Anne")
 print ("New employee in place of Kate:" , getattr (employee1, "name")) # New employee in place of Kate: Anne
 print(getattr(employee1 , "name")) # Anne
+
